@@ -1,3 +1,4 @@
+
 .m{
 		display: none;
 	}
@@ -34,7 +35,7 @@
 		position: absolute;
 		text-align: center;
 		margin-top: -46%;
-		margin-left: 37%;
+		margin-left: 39%;
 }
 
 .scet{
@@ -43,7 +44,7 @@
 		color: rgb(64,198,209);
 		text-align: center;
 		font-size: 2vw;
-		margin-top: -43%;
+		margin-top: -44%;
 		margin-left: -1%;
 }
 
@@ -170,7 +171,7 @@
 	#hee{
 		position: absolute;
 		/*left:230px;*/ 
-		right: 20px;
+		right: 10px;
 	}
 	
 	.d{
@@ -198,8 +199,8 @@
 	}
 	.U{
 		position: relative;
-		width: 20%;
-		margin-left: 6%;
+		width: 17%;
+		margin-left: 8%;
 		margin-top: 3%;
 	}
 	.pdates2k19{
@@ -242,8 +243,9 @@
 }
 
 #about_back{
-	height: 80%;
-	margin-top: -30%;
+	height: 70%;
+	/*height: auto;*/
+	margin-top: -25%;
 }
 #about{
 	margin-top: -25%;
@@ -287,5 +289,8 @@
 }
 .rules_text{
 	font-size: 15px;
+}
+#csgoweb_text{
+	font-size: 22px;
 }
 }
